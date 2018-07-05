@@ -5,5 +5,6 @@
     <string name="badadelboden">Schwimmbad Gruebi Adelboden (BE)</string>
     <string name="badbern">Stadtberner Baeder Bern (BE)</string>
     <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_single">Map</string>
 
 </resources>
