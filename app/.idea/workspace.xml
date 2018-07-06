@@ -11,8 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d6e04353-f835-490f-8368-dfeb3175398f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bvamas/badiapp" afterPath="$PROJECT_DIR$/src/main/java/com/example/bvamas/badiapp" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bvamas/badiapp/MapsSingleActivity.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/bvamas/badiapp/MapsSingleActivity.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -2444,7 +2442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530802823984</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="last (without testing)">
+      <created>1530859282136</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1530859282136</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2532,7 +2537,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
     <MESSAGE value="Main-functionalities are complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Main-functionalities are complete" />
+    <MESSAGE value="last (without testing)" />
+    <option name="LAST_COMMIT_MESSAGE" value="last (without testing)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
