@@ -34,10 +34,15 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     implementation 'commons-io:commons-io:2.5'
 
-    //Android Testing Support Library's runner and rules
-    androidTestImplementation "com.android.support.test:runner:0.5"
-    androidTestImplementation "com.android.support.test:rules:0.5"
+     //Android Testing Support Library's runner and rules
+     androidTestImplementation "com.android.support.test:runner:0.5"
+     androidTestImplementation "com.android.support.test:rules:0.5"
 
+     //Espresso UI Testing dependencies
+     androidTestImplementation "com.android.support.test.espresso:espresso-core:2.2.2"
+
+     // App's dependencies, including test
+     implementation 'com.android.support:support-annotations:27.1.1'
 
 }
 
